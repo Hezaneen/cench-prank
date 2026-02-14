@@ -112,12 +112,12 @@ function App() {
           )}
 
           <div className="gif-circle">
-            <img
-              src="/vee.gif"
-              alt="Valentine"
-              className="gif"
-            />
-          </div>
+  <img
+    src={process.env.PUBLIC_URL + "/question.gif"}
+    alt="Valentine"
+    className="gif"
+  />
+</div>
 
           <h1 className="valentine">💘 HAPPY VALENTINE'S DAY CENCH 💘</h1>
 
