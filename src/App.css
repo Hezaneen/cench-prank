@@ -151,8 +151,8 @@ body {
 }
 
 .gif {
-  width: 180px;
-  height: 180px;
+  width: 220px;
+  height: 220px;
   object-fit: cover;
   border-radius: 50%;
 }
