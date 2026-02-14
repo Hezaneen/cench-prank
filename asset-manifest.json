@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cench-prank/static/css/main.47f19fd5.css",
-    "main.js": "/cench-prank/static/js/main.970337cd.js",
+    "main.js": "/cench-prank/static/js/main.5d3e1f5a.js",
     "static/js/453.f56ca643.chunk.js": "/cench-prank/static/js/453.f56ca643.chunk.js",
     "index.html": "/cench-prank/index.html",
     "main.47f19fd5.css.map": "/cench-prank/static/css/main.47f19fd5.css.map",
-    "main.970337cd.js.map": "/cench-prank/static/js/main.970337cd.js.map",
+    "main.5d3e1f5a.js.map": "/cench-prank/static/js/main.5d3e1f5a.js.map",
     "453.f56ca643.chunk.js.map": "/cench-prank/static/js/453.f56ca643.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47f19fd5.css",
-    "static/js/main.970337cd.js"
+    "static/js/main.5d3e1f5a.js"
   ]
 }
