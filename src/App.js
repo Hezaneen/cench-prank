@@ -113,7 +113,7 @@ function App() {
 
           <div className="gif-circle">
   <img
-    src={process.env.PUBLIC_URL + "/question.gif"}
+    src={process.env.PUBLIC_URL + "/vee.gif"}
     alt="Valentine"
     className="gif"
   />
