@@ -78,15 +78,15 @@ function App() {
         <>
           <h1 className="warning">Hi Cench!</h1>
           <button className="start-btn" onClick={enterFullscreen}>
-            Click mo ko Please
+            Click mo ko pleaseee
           </button>
         </>
       )}
 
       {phase === "scan" && (
         <>
-          <h1>You've just been Hacked!!!</h1>
-          <p>Scanning device files...</p>
+          <h1>Cench, I think ur Fucked?</h1>
+          <p>Diba don't click on random links 🙁...</p>
         </>
       )}
 
@@ -113,10 +113,10 @@ function App() {
 
           <div className="gif-circle">
   <img
-    src={process.env.PUBLIC_URL + "/vee.gif"}
-    alt="Valentine"
-    className="gif"
-  />
+  src={process.env.PUBLIC_URL + "/vee.gif"}
+  alt="Valentine"
+  className="gif"
+/>
 </div>
 
           <h1 className="valentine">💘 HAPPY VALENTINE'S DAY CENCH 💘</h1>
